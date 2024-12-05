@@ -1,0 +1,20 @@
+/detect_node:
+  ros__parameters:
+    bottom_x: 563.0
+    bottom_y: 463.0
+    hue_white_h: 181.0
+    hue_white_l: 0.0
+    hue_yellow_h: 54.0
+    hue_yellow_l: 11.0
+    lightness_white_h: 255.0
+    lightness_white_l: 210.0
+    lightness_yellow_h: 255.0
+    lightness_yellow_l: 137.0
+    reliability_white_line: 100.0
+    reliability_yellow_line: 100.0
+    saturation_white_h: 50.0
+    saturation_white_l: 0.0
+    saturation_yellow_h: 197.0
+    saturation_yellow_l: 13.0
+    top_x: 483.0
+    top_y: 328.0
